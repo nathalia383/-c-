@@ -1,0 +1,26 @@
+
+    
+int a, b;
+
+
+            Console.WriteLine(" digite o valor de a:");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine(" digite o valor de b:");
+            b = int.Parse(Console.ReadLine());
+
+
+            if (a > b)
+            {​​​​​​​
+                Console.WriteLine(a + " o valor de a é maior");
+
+
+            }​​​​​​​
+            else
+            {​​​​​​​
+         
+                Console.WriteLine(b + "o valor de b é maior");
+
+
+
+
+
